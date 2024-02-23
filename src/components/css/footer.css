@@ -1,0 +1,44 @@
+/* footer.css */
+
+.social-media-icons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.social-media-icons a {
+  margin: 0 20px;
+  font-size: 40px;
+  color: #000000;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.facebook:hover {
+  color: #0035bb;
+}
+
+.twitter:hover {
+  color: #1d9bf0;
+}
+.linkedin:hover {
+  color: #0073b1;
+}
+.instagram:hover {
+  color: #d94363;
+}
+
+.github:hover {
+  color: #0d2534;
+}
+
+@keyframes bounce {
+  0%, 100%, 20%, 50%, 80% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}

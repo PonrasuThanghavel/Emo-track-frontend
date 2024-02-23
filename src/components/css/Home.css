@@ -1,0 +1,219 @@
+
+body {
+  background-color: #f0f0f0; /* Replace with your desired background color */
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Styles for the entire homepage */
+.homepage {
+  padding: 20px;
+  text-align: justify;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+.homepage h1{
+    color:#007bff;
+}
+/* Styles for section headings */
+.section h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #007bff; /* Blue heading color */
+}
+
+/* Styles for paragraphs */
+.section p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+/* Styles for strong text (e.g., "Product Reviews:") */
+.section strong {
+  font-weight: bold;
+  color: #007bff; /* Blue color for strong text */
+}
+
+/* Styles for lists */
+.section ul, .section ol {
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+
+.section ul li, .section ol li {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+/* Styles for the "About Us" section */
+.about-us {
+  margin-top: 30px;
+}
+
+.about-us h2 {
+  color: #007bff; /* Blue heading color */
+  font-size: 24px;
+}
+
+.about-us p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+/* Styles for the "Key Features" section */
+.key-features {
+  margin-top: 30px;
+}
+
+.key-features h2 {
+  color: #007bff; /* Blue heading color */
+  font-size: 24px;
+}
+
+.key-features p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+/* Styles for strong text within the "Key Features" section */
+.key-features strong {
+  font-weight: bold;
+  color: #007bff; /* Blue color for strong text */
+}
+
+/* Styles for lists within the "Key Features" section */
+.key-features ul, .key-features ol {
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+
+.key-features ul li, .key-features ol li {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+/* Styles for the "Our Technology Stack" section */
+.tech-stack {
+  margin-top: 30px;
+}
+.tech-stack strong{
+    color: #0056b3;
+}
+
+.tech-stack h2 {
+  color: #007bff; /* Blue heading color */
+  font-size: 24px;
+}
+
+.tech-stack ul {
+  list-style-type: disc;
+  margin-left: 30px;
+}
+
+.tech-stack ul li {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Styles for the "How It Works" section */
+.how-it-works {
+  margin-top: 30px;
+}
+
+.how-it-works h2 {
+  color: #007bff; /* Blue heading color */
+  font-size: 24px;
+}
+
+.how-it-works p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+.how-it-works strong{
+    color: #0056b3;
+}
+
+/* Styles for the "Get Started" section */
+.get-started {
+  margin-top: 30px;
+}
+
+.get-started h2 {
+  color: #007bff; /* Blue heading color */
+  font-size: 24px;
+}
+
+.get-started p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+.explore-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff; /* Blue background color for the button */
+  color: #fff; /* Text color for the button */
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  text-align: center;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.explore-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Styles for the "Connect with Us" section */
+.connect-with-us {
+  margin-top: 30px;
+}
+
+.connect-with-us h2 {
+  color: #007bff; /* Blue heading color */
+  font-size: 24px;
+}
+
+.connect-with-us p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+.social-media-links {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.social-media-links li {
+  display: inline;
+  margin-right: 15px;
+}
+
+.social-media-links a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+.social-media-links a:hover {
+  color: #0056b3; /* Darker blue on hover */
+}
+
+
